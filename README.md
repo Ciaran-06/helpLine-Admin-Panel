@@ -1,4 +1,4 @@
-# Demo Project
+# API for school project
 
 A REST+JSON API service
 
